@@ -82,11 +82,11 @@ jun.koreanAge = 26
 // 인스턴스 저장 프로퍼티 사용
 jun.name = "jun"
 print(jun.name)
-// yagom
+// jun
 
 // 인스턴스 연산 프로퍼티 사용
 print(jun.selfIntroduction)
-// 저는 swift반 yagom입니다.
+// 저는 swift반 jun입니다.
 
 print("제 한국나이는 \(jun.koreanAge)살 이고, 미국나이는 \(jun.westernAge)살 입니다.")
 // 제 한국나이는 26살 이고, 미국나이는 25살 입니다.
